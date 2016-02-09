@@ -9,7 +9,7 @@ import scipy.spatial.distance as ssd
 from collections import deque
 from pyknp import Juman
 import sys
-sys.path.insert(0, "/home/inamura/workspace/gensim")
+
 from gensim.models import Word2Vec
 
 

@@ -1,4 +1,4 @@
-# achain: fixed length word association generater by word2vec
+# achain: word association generater by word2vec
 ====
 
 ## Description

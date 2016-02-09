@@ -11,7 +11,8 @@
 <!-- ## VS. -->
 
 ## Requirement
-* gensim
+* Numpy/Scipy
+* gensim (ver. 0.12.3)
 * word2vec model file
 * pyknp (input query parser on which w2v model is base)
 
